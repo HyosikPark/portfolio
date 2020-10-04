@@ -25,7 +25,7 @@
 
 3. Run frontend
 
-`$ cd client`
+`$ cd client`</br>
 `$ npm start`
 
 ## Skills
