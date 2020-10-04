@@ -16,15 +16,15 @@
 
 ## npm start
 
-#### 1. install MongoDB
+### 1. install MongoDB
 
 https://docs.mongodb.com/manual/administration/install-community/
 
-#### 2. Run Backend
+### 2. Run Backend
 
 `$ npm start`
 
-#### 3. Run frontend
+### 3. Run frontend
 
 `$ cd client`</br>
 `$ npm start`
