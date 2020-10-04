@@ -28,7 +28,7 @@ https://docs.mongodb.com/manual/administration/install-community/</br>
 `$ cd frontend`</br>
 `$ npm start`
 
-## Skill
+## Skills
 
 1. The home page lists all the products in order of recent uploads, and you can click the menu bar to view the products classified by category.</br>
    Information on id, price, brand, etc. of the product was first designed with api, received, and the front was designed with mongoDB schema model.
